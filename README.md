@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hello, this is KEN
+
+<BR>
+I AM KENNETH TENGAPOE, A STATISTICIAN AT THE GHANA STATISTICAL SERVICE AND A RESEARCHER
+<img width="359" height="140" alt="image" src="https://github.com/user-attachments/assets/0158410d-b16a-4419-990b-d884ea707939" />
 
 <!--
 **kennethtengapoe-blip/kennethtengapoe-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
